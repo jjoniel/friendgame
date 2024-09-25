@@ -1,0 +1,32 @@
+True or False? Fish have necks
+False
+True or False? Southside staff are friendly
+True
+True or False? Ikes > Globe
+True
+True or False? Gelato > Softserve
+False
+True or False? Mason Money is tax free
+True
+True or False? The Honors College is prestigious
+True
+True or False? AFC > RAC
+False
+True or False? 1 + 5 + 7 = 69
+False
+True or False? 4 + 5 + 9 = 18
+True
+True or False? Monkeys have tails
+True
+True or False? Red + Green = Yellow
+True
+True or False? Red + Blue = Pink
+False
+True or False? It is spelled 'discreet mathematics'
+False
+True or False? Southside food is very delicious
+True
+True or False? There is a California Pizza Kitchen on campus
+False
+True or False? There are three Starbucks on campus
+True
